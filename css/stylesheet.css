@@ -19,6 +19,7 @@ input{
   height: 25px;
   border: 1px solid black;
   border-radius: 5px;
+  padding-left: 5px;
 }
 #condition{
   width: 15px;
