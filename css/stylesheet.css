@@ -1,0 +1,33 @@
+.container{
+  margin: 0 auto;
+  width: 350px;
+}
+form{
+  border-radius: 15px;
+  background-color: grey;
+  padding: 25px;
+}
+p{
+  margin-left: 25px;
+  font-size: 1.2em;
+}
+label{
+  font-family: sans-serif;
+}
+input{
+  width: 250px;
+  height: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+#condition{
+  width: 15px;
+  height: 15px;
+}
+.button{
+  width: 125px;
+}
+.age{
+  width: 200px;
+  height: 25px;
+}
